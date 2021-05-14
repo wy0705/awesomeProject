@@ -37,3 +37,4 @@ func (simplePizzaFactory SimplePizzaFactory) CreatPizze()  Pizz{
 	}
 	return simplePizzaFactory.pizza
 }
+
