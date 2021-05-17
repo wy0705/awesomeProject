@@ -1,8 +1,6 @@
 package main
 
-import "fmt"
-
-type Person struct{
+/*type Person struct{
 	id int
 	name string
 	age int
@@ -134,4 +132,7 @@ func main()  {
 
 
 
+}*/
+func main()  {
+	balance:= [20]byte{'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t'}
 }
